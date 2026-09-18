@@ -1,0 +1,9 @@
+Package: com.local.tgwsproxy
+Name: TG WS Proxy
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Local SOCKS5->WebSocket bridge for Telegram (like Flowseal/tg-ws-proxy), with auto-configure in Telegram.
+Maintainer: you
+Author: you
+Section: Networking
+Depends: firmware (>= 16.0)
