@@ -3,6 +3,7 @@ name: Build TG WS Proxy tweak
 on:
   push:
     branches: [ main ]
+    tags: [ 'v*' ]
   workflow_dispatch: {}
 
 jobs:
